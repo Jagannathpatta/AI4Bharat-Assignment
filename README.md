@@ -3,6 +3,7 @@
 ## To Run task 1
 Step 1 : Install the requirements.txt file
 pip install -r requirements.txt
+
 Step 2 : Run the "wiki_extractor.py" file with inputs.
 python wiki_extractor.py --keyword=”Indian Historical Events” --num_urls=100 --output=”out.json”
 
